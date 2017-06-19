@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-musicbrainzngs"
+VERSION=0.6
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python MusicBrainz NGS interface"
+DESCRIPTION="This library implements webservice bindings for the Musicbrainz
+NGS site, also known as /ws/2 and the Cover Art Archive."
+
+ARCH=noarch
